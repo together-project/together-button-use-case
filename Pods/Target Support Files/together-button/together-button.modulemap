@@ -1,0 +1,6 @@
+framework module together_button {
+  umbrella header "together-button-umbrella.h"
+
+  export *
+  module * { export * }
+}
