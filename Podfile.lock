@@ -1,5 +1,5 @@
 PODS:
-  - together-button (0.2.1)
+  - together-button (0.2.2)
 
 DEPENDENCIES:
   - together-button
@@ -9,7 +9,7 @@ SPEC REPOS:
     - together-button
 
 SPEC CHECKSUMS:
-  together-button: 1297f99bc7b8afe527ae7a3736695b0ab1423a0a
+  together-button: bbd1240bdd58904b911751d98e111afabe4460ce
 
 PODFILE CHECKSUM: 0fed463a9b9c811299df7ee15d134aaf74691bb0
 
